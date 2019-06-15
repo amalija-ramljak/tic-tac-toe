@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/VERA/CLionProjects/tictactoe/TicTacToeGrid.cpp
+TicTacToeGrid.h
+C:/Users/VERA/CLionProjects/tictactoe/TicTacToeGrid.h
+
+C:/Users/VERA/CLionProjects/tictactoe/TicTacToeGrid.h
+iostream
+-
+new
+-
+vector
+-
+algorithm
+-
+
+C:/Users/VERA/CLionProjects/tictactoe/main.cpp
+iostream
+-
+TicTacToeGrid.h
+C:/Users/VERA/CLionProjects/tictactoe/TicTacToeGrid.h
+
